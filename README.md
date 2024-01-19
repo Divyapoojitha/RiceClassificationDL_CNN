@@ -1,6 +1,4 @@
-Dataset zip file link -- https://drive.google.com/file/d/1QvURUFh6U8O2iaih1u6Hgn76DWj3kchv/view?usp=sharing
 
- 
 ## RICE CLASSIFICATION  ##
 
 ### Modules utilized : ###
